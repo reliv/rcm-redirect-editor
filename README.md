@@ -1,3 +1,5 @@
+#Deprecated! No longer used! Was replaced by node/react editor.
+
 Rcm Redirect
 ====================
 
